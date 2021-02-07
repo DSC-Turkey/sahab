@@ -6,7 +6,7 @@ Sahab, komşularınızlailetişime geçebileceğiniz, iletişim kurup yaşadığ
 
 
 
-## kodu çalıştırmak için	## kodu çalıştırmak için
+## kodu çalıştırmak için	
 ```
 flutter clean	
 flutter pub get	

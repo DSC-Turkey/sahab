@@ -15,4 +15,5 @@ flutter run
 
 ## ekran görüntüleri
 | Giriş Sayfası | Sign-Up | Sign-In | Anasayfa |
+|:-:|:-:|:-:|:-:|
 | ![Giriş sayfası](docs/mockups/giris.png) | ![sign-up](docs/mockups/kayit.png) | ![hesap kurulmadı](docs/mockups/hesap-kur1.png) | ![hesap kur](docs/mockups/hesap-kur1.png) |

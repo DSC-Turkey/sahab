@@ -19,6 +19,6 @@ flutter run
 | ![Giriş sayfası](docs/mockups/giris.png) | ![sign-up](docs/mockups/kayit.png) | ![hesap kurulmadı](docs/mockups/hesap-kur1.png) | ![hesap kur](docs/mockups/hesap-kur1.png) |
 
 | Anasayfa | Harita | Profil |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | ![Giriş sayfası](docs/mockups/anasayfa.png) | ![sign-up](docs/mockups/harita.png) | ![hesap kurulmadı](docs/mockups/profil.png) |
 

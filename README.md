@@ -7,8 +7,8 @@ Sahab, komşularınızlailetişime geçebileceğiniz, iletişim kurup yaşadığ
 
 
 ## kodu çalıştırmak için	## kodu çalıştırmak için
-```	```
-flutter clean	flutter clean
-flutter pub get	flutter pub get
-flutter run	flutter run
-```	```
+```
+flutter clean	
+flutter pub get	
+flutter run	
+```

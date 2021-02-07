@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075734353915",
+    "project_id": "sahab-475fb",
+    "storage_bucket": "sahab-475fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075734353915:android:b747ac440356f0311d1d5e",
+        "android_client_info": {
+          "package_name": "com.fivefourcode.sahab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075734353915-3jh10rea6n5fj1ljjj9ujrffju98koe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8opS2iHeSAx73GCnhm8sFf0pdxsAowo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075734353915-3jh10rea6n5fj1ljjj9ujrffju98koe8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075734353915-409mf305ln20kk45s9vfq7ung2v4e7ci.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fivefourcode.sahab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
